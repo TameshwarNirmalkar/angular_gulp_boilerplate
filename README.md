@@ -60,7 +60,7 @@ $ npm install -g gulp
 Clone repository from GitHub:
 
 ```sh
-$ git clone https://github.com/1oginov/Angular-Gulp-Boilerplate.git NewProject
+$ git clone https://github.com/TameshwarNirmalkar/angular_gulp_boilerplate NewProject
 ```
 
 Jump into `NewProject` directory and install `npm` dependencies:

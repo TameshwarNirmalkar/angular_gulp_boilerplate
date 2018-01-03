@@ -14,14 +14,14 @@
     "localization",
     "l10n"
   ],
-  "homepage": "https://github.com/1oginov/Angular-Gulp-Boilerplate",
-  "bugs": "https://github.com/1oginov/Angular-Gulp-Boilerplate/issues",
+  "homepage": "https://github.com/TameshwarNirmalkar/angular_gulp_boilerplate",
+  "bugs": "https://github.com/TameshwarNirmalkar/angular_gulp_boilerplate/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/1oginov/Angular-Gulp-Boilerplate.git"
+    "url": "https://github.com/TameshwarNirmalkar/angular_gulp_boilerplate.git"
   },
   "license": "MIT",
-  "author": "Danila Loginov <danila@loginov.rocks> (https://loginov.rocks)",
+  "author": "Tameshwar Nirmalkar",
   "devDependencies": {
     "browser-sync": "^2.18.13",
     "browser-sync-spa": "^1.0.3",
